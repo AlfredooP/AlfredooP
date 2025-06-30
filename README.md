@@ -7,4 +7,4 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A800CA&center=true&width=435&lines=Alfredo+Puentes;AlfredooP" alt="Typing SVG" />
 </div>
 
-<p> Mas sobre mi proximamente...</p>
+<p> Mas sobre mi próximamente...</p>
