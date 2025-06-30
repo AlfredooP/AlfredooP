@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Foto -->
-<img align="center" alt="Profile" width="200" src="https://github.com/AlfredooP/AlfredooP/blob/main/Resources/profile.png">
+<img align="center" alt="Profile" width="150" src="https://github.com/AlfredooP/AlfredooP/blob/main/Resources/profile.png">
 <br>
 <br>
 <!-- Nombre/Usuario -->
