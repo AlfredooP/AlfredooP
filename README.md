@@ -21,12 +21,35 @@
 
 Estos son algunos de mis repositorios mas destacados:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Algorithms&theme=midnight-purple)](https://github.com/AlfredooP/Algorithms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=ProgramacionWeb&theme=midnight-purple)](https://github.com/AlfredooP/ProgramacionWeb)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=EstructuraDeDatos&theme=midnight-purple)](https://github.com/AlfredooP/EstructuraDeDatos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=ProgramacionOrientadaAObjetos&theme=midnight-purple)](https://github.com/AlfredooP/ProgramacionOrientadaAObjetos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=TopicosAvanzados&theme=midnight-purple)](https://github.com/AlfredooP/TopicosAvanzados)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Graficacion&theme=midnight-purple)](https://github.com/AlfredooP/Graficacion)
+<div align="center">
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Algorithms&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/Algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=ProgramacionWeb&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/ProgramacionWeb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=EstructuraDeDatos&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/EstructuraDeDatos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=ProgramacionOrientadaAObjetos&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/ProgramacionOrientadaAObjetos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=TopicosAvanzados&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/TopicosAvanzados)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Graficacion&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/Graficacion)
+</div>
+<br>
+
+
+<h2>📁 Estadísticas</h2>
+
+<div align="center">
+  
+[![Stats card](https://github-readme-stats.vercel.app/api?username=AlfredooP&hide=issues&locale=es&hide_border=true&show_icons=true&theme=midnight-purple)](https://github.com/AlfredooP)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredooP&layout=donut-vertical&langs_count=8&locale=es&hide_border=true&theme=midnight-purple)](https://github.com/AlfredooP)
+
+<!-- PRUEBA DE RESPONSIVIDAD
+<a href="https://github.com/AlfredooP/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AlfredooP&hide=issues&locale=es&hide_border=true&show_icons=true&theme=midnight-purple" />
+</a>
+<a href="https://github.com/AlfredooP/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredooP&layout=donut&langs_count=8&locale=es&hide_border=true&theme=midnight-purple&card_width=320" />
+</a>
+-->
+
+</div>
 
 <!-- agregar link al portfolio -->
