@@ -37,9 +37,8 @@ Estos son algunos de mis repositorios mas destacados:
 
 <div align="center">
   
-[![Stats card](https://github-readme-stats.vercel.app/api?username=AlfredooP&hide=issues&locale=es&hide_border=true&show_icons=true&theme=midnight-purple)](https://github.com/AlfredooP)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredooP&layout=donut-vertical&langs_count=8&locale=es&hide_border=true&theme=midnight-purple)](https://github.com/AlfredooP)
+[![Stats card](https://github-readme-stats.vercel.app/api?username=AlfredooP&hide=issues&locale=es&hide_border=true&rank_icon=github&show_icons=true&theme=midnight-purple)](https://github.com/AlfredooP)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredooP&langs_count=6&layout=compact&locale=es&hide_border=true&theme=midnight-purple)](https://github.com/AlfredooP)
 
 <!-- PRUEBA DE RESPONSIVIDAD
 <a href="https://github.com/AlfredooP/github-readme-stats">
