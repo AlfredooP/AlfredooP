@@ -16,7 +16,6 @@
 - 🔜 Actualmente estoy aprendiendo: `Typescript` y `Python`
 <br>
 
-
 <h2>📁 Mis repositorios</h2>
 
 Estos son algunos de mis repositorios mas destacados:
@@ -32,7 +31,6 @@ Estos son algunos de mis repositorios mas destacados:
 </div>
 <br>
 
-
 <h2>📊 Estadísticas</h2>
 
 <div align="center">
@@ -40,7 +38,7 @@ Estos son algunos de mis repositorios mas destacados:
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlfredooP&theme=midnight_purple)](https://github.com/AlfredooP)
 [![Stats card](https://github-readme-stats.vercel.app/api?username=AlfredooP&hide=issues&locale=es&hide_border=true&rank_icon=github&show_icons=true&card_width=500&theme=midnight-purple&border_radius=10)](https://github.com/AlfredooP)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredooP&langs_count=6&layout=compact&locale=es&hide_border=true&theme=midnight-purple&border_radius=10)](https://github.com/AlfredooP)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlfredooP&theme=midnight-purple&hide_border=true&border_radius=10&locale=es&card_width=800&card_height=200)](https://github.com/AlfredooP)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlfredooP&theme=midnight-purple&hide_border=true&border_radius=10&locale=es&card_width=800&card_height=200)](https://github.com/AlfredooP) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlfredooP&theme=midnight_purple&utcOffset=-6)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlfredooP&theme=midnight_purple)
 
@@ -57,6 +55,7 @@ Estos son algunos de mis repositorios mas destacados:
 -->
 
 </div>
+<br>
 
 <h2>💻 Tecnologías</h2>
 
@@ -73,5 +72,39 @@ Estos son algunos de mis repositorios mas destacados:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
+<h3>IDEs / Editores</h3>
+
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
+
+<h3>Sistemas operativos</h3>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
+![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
+<br>
+
+<h2>📩 Contacto</h2>
+
+Correo: alfredo.puentes25@outlook.com
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-puentes-vargas)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/alfredopv)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/alfredopv/)
 
 <!-- agregar link al portfolio -->
