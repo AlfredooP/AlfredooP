@@ -8,6 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A800CA&center=true&width=435&lines=Alfredo+Puentes;AlfredooP" alt="Typing SVG" />
 </div>
 
+<!--
 <h2>🙃 Sobre mi</h2>
 
 - 🏫 Actualmente estudio la carrera de `Ingeniería en Sistemas Computacionales`
@@ -16,6 +17,7 @@
 - 🛠️ Actualmente estoy trabajando en un proyecto en equipo: `Salud Universitaria`
 - 🔜 Actualmente estoy aprendiendo: `Typescript` y `Python`
 <br>
+-->
 
 <h2>📁 Mis repositorios</h2>
 
