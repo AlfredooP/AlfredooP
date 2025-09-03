@@ -27,10 +27,12 @@ Estos son algunos de mis repositorios mas destacados:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Algorithms&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/Algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=ProgramacionWeb&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/ProgramacionWeb)
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=EstructuraDeDatos&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/EstructuraDeDatos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=ProgramacionOrientadaAObjetos&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/ProgramacionOrientadaAObjetos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=TopicosAvanzados&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/TopicosAvanzados)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Graficacion&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/Graficacion)
+-->
 </div>
 <br>
 
