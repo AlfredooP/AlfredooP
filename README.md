@@ -1,8 +1,4 @@
 <div align="center">
-<!-- Foto 
-<img align="center" alt="Profile" width="150" src="https://github.com/AlfredooP/AlfredooP/blob/main/Resources/profile.png">
-<br>
--->
 <br>
 <!-- Nombre/Usuario -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A800CA&center=true&width=435&lines=Alfredo+Puentes;AlfredooP" alt="Typing SVG" />
@@ -25,8 +21,10 @@ Estos son algunos de mis repositorios mas destacados:
 
 <div align="center">
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=ChambApp&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/ChambApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Skaan&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/Skaan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Algorithms&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/Algorithms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=ProgramacionWeb&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/ProgramacionWeb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Portfolio&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/Portfolio)
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=EstructuraDeDatos&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/EstructuraDeDatos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=ProgramacionOrientadaAObjetos&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/ProgramacionOrientadaAObjetos)
@@ -41,8 +39,8 @@ Estos son algunos de mis repositorios mas destacados:
 <div align="center">
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlfredooP&theme=midnight_purple)](https://github.com/AlfredooP)
-[![Stats card](https://github-readme-stats.vercel.app/api?username=AlfredooP&hide=issues&locale=es&hide_border=true&rank_icon=github&show_icons=true&card_width=500&theme=midnight-purple&border_radius=10)](https://github.com/AlfredooP)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredooP&langs_count=6&layout=compact&locale=es&hide_border=true&theme=midnight-purple&border_radius=10)](https://github.com/AlfredooP)
+[![Stats card](https://github-readme-stats.vercel.app/api?username=AlfredooP&hide=issues&locale=es&hide_border=true&show_icons=true&card_width=500&theme=midnight-purple&border_radius=10)](https://github.com/AlfredooP)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredooP&langs_count=6&layout=compact&locale=es&hide_border=true&theme=midnight-purple&border_radius=10&hide=Makefile)](https://github.com/AlfredooP)
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlfredooP&theme=midnight-purple&hide_border=true&border_radius=10&locale=es&card_width=800&card_height=200)](https://github.com/AlfredooP) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlfredooP&theme=midnight_purple&utcOffset=-6)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlfredooP&theme=midnight_purple)
@@ -62,7 +60,7 @@ Estos son algunos de mis repositorios mas destacados:
 </div>
 <br>
 
-<h2>💻 Tecnologías</h2>
+<!-- <h2>💻 Tecnologías</h2>
 
 <h3>Lenguajes</h3>
 
@@ -102,7 +100,7 @@ Estos son algunos de mis repositorios mas destacados:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
-<br>
+<br> -->
 
 <h2>📩 Contacto</h2>
 
