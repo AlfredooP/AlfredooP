@@ -21,9 +21,9 @@ Estos son algunos de mis repositorios mas destacados:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=ChambApp&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/ChambApp)
+<!-- (Checar fallo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=ChambApp&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/ChambApp) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Skaan&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/Skaan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Algorithms&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/Algorithms)
+<!-- (Checar fallo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Algorithms&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/Algorithms) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Portfolio&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/Portfolio)
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=EstructuraDeDatos&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/EstructuraDeDatos)
@@ -39,8 +39,8 @@ Estos son algunos de mis repositorios mas destacados:
 <div align="center">
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlfredooP&theme=midnight_purple)](https://github.com/AlfredooP)
-[![Stats card](https://github-readme-stats.vercel.app/api?username=AlfredooP&hide=issues&locale=es&hide_border=true&show_icons=true&card_width=500&theme=midnight-purple&border_radius=10)](https://github.com/AlfredooP)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredooP&langs_count=6&layout=compact&locale=es&hide_border=true&theme=midnight-purple&border_radius=10&hide=Makefile)](https://github.com/AlfredooP)
+<!-- (Checar fallo) [![Stats card](https://github-readme-stats.vercel.app/api?username=AlfredooP&hide=issues&locale=es&hide_border=true&show_icons=true&card_width=500&theme=midnight-purple&border_radius=10)](https://github.com/AlfredooP)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredooP&langs_count=6&layout=compact&locale=es&hide_border=true&theme=midnight-purple&border_radius=10&hide=Makefile)](https://github.com/AlfredooP) -->
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlfredooP&theme=midnight-purple&hide_border=true&border_radius=10&locale=es&card_width=800&card_height=200)](https://github.com/AlfredooP) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlfredooP&theme=midnight_purple&utcOffset=-6)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlfredooP&theme=midnight_purple)
