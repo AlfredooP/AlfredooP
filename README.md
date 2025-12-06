@@ -14,18 +14,17 @@
 - 🔜 Actualmente estoy aprendiendo: `Typescript` y `Python`
 <br>
 -->
-
+<!--
 <h2>📁 Mis repositorios</h2>
 
 Estos son algunos de mis repositorios mas destacados:
 
 <div align="center">
 
-<!-- (Checar fallo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=ChambApp&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/ChambApp) -->
+ (Checar fallo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=ChambApp&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/ChambApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Skaan&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/Skaan)
-<!-- (Checar fallo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Algorithms&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/Algorithms) -->
+<!-- (Checar fallo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Algorithms&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/Algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=Portfolio&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/Portfolio)
-<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=EstructuraDeDatos&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/EstructuraDeDatos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=ProgramacionOrientadaAObjetos&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/ProgramacionOrientadaAObjetos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredooP&repo=TopicosAvanzados&border_radius=10&border_color=420097&theme=midnight-purple)](https://github.com/AlfredooP/TopicosAvanzados)
