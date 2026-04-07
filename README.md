@@ -33,14 +33,14 @@ Estos son algunos de mis repositorios mas destacados:
 </div>
 <br>
 
-<h2>📊 Estadísticas</h2>
+<h2>Stats</h2>
 
 <div align="center">
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlfredooP&theme=midnight_purple)](https://github.com/AlfredooP)
 <!-- (Checar fallo) [![Stats card](https://github-readme-stats.vercel.app/api?username=AlfredooP&hide=issues&locale=es&hide_border=true&show_icons=true&card_width=500&theme=midnight-purple&border_radius=10)](https://github.com/AlfredooP)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredooP&langs_count=6&layout=compact&locale=es&hide_border=true&theme=midnight-purple&border_radius=10&hide=Makefile)](https://github.com/AlfredooP) -->
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlfredooP&theme=midnight-purple&hide_border=true&border_radius=10&locale=es&card_width=800&card_height=200)](https://github.com/AlfredooP) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlfredooP&theme=midnight-purple&hide_border=true&border_radius=10&locale=en&card_width=800&card_height=200&mode=weekly)](https://github.com/AlfredooP) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlfredooP&theme=midnight_purple&utcOffset=-6)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlfredooP&theme=midnight_purple)
 
@@ -101,12 +101,11 @@ Estos son algunos de mis repositorios mas destacados:
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 <br> -->
 
-<h2>📩 Contacto</h2>
+<h2>Contact</h2>
 
-Correo: alfredo.puentes25@outlook.com
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-puentes-vargas)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/alfredopv)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/alfredopv/)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-A800CA?style=for-the-badge)](https://portfolio-alfredoop.vercel.app)
+[![Email](https://img.shields.io/badge/Email-A800CA?style=for-the-badge)](mailto:alfredopuentesv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-A800CA?style=for-the-badge)](https://www.linkedin.com/in/alfredo-puentes-vargas)
+[![Codeforces](https://img.shields.io/badge/Codeforces-A800CA?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/alfredopv)
+[![LeetCode](https://img.shields.io/badge/LeetCode-A800CA?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/alfredopv/)
 <!-- agregar link al portfolio -->
