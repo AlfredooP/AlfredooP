@@ -101,7 +101,7 @@ Estos son algunos de mis repositorios mas destacados:
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 <br> -->
 
-<h2>Contact</h2>
+<h2><img src="./address-book-solid-full.svg" width="20"> Contact</h2>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-A800CA?style=for-the-badge)](https://portfolio-alfredoop.vercel.app)
 [![Email](https://img.shields.io/badge/Email-A800CA?style=for-the-badge)](mailto:alfredopuentesv@gmail.com)
