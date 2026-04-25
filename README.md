@@ -33,7 +33,7 @@ Estos son algunos de mis repositorios mas destacados:
 </div>
 <br>
 
-<h2>Stats</h2>
+<h2><img src="./chart-column-solid-full.svg" width="20"> Stats</h2>
 
 <div align="center">
 
